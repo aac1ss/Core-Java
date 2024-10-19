@@ -1,0 +1,11 @@
+	import java.util.*;
+class Mapp{
+	public static void main(String[] args){
+	Map<String> mp=new Map<>();
+	t.put(101,"Reyna");
+	t.put(102,"Breach");
+	t.put(103,"Raze");
+	t.put(104,"Jett");
+	System.out.println(t);
+	}
+}

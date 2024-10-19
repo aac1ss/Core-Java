@@ -1,0 +1,18 @@
+class sup{
+	public static void meth(){
+	System.out.println("This is first method");
+	}
+
+	int meth(int a){
+	
+	System.out.println("This is next method with value "+ a);
+	return a;	
+	}	
+}
+class xtat{
+	public static void main(String[] args){
+	sup r=new sup();
+	r.meth(10);	
+		
+}
+}

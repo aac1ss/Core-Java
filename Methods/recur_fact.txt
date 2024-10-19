@@ -1,0 +1,21 @@
+class recur_fact{
+	public static void main(String[] args){
+		int result=rfact(5);
+		System.out.println("THe factorial is: "+result);
+	}
+
+		public static int rfact(int r){
+			if(r>0){
+				for(int i=1;i<=ri++){
+				r=r*i;
+				
+				}return r;
+			} 
+			else{
+				return 0;	
+			}
+			
+		}
+
+
+}

@@ -1,0 +1,13 @@
+Class Employee{
+	String name;
+	int Employee_id;
+	
+
+	public static void main(String[] args){
+	Employee e= new Employee();
+	Employee e2.= new Employee();
+	r.name ="AShish";
+	r.Employee_id =1;
+	
+	}
+}
