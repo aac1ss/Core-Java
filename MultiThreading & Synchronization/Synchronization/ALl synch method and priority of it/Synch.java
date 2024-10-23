@@ -10,7 +10,7 @@ class Synch{
 
 	/*With that running synchronized v4 feri object key liyera run gardai cha
 	and m5 ta normal methdo ho it can easily acess and run
-
+N
 	*/
 	static synchronized void m1(){
 		System.out.println("Static synchronized Method 1");
